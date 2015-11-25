@@ -91,12 +91,8 @@ class ViewController: UIViewController {
                     default:
                         break
                 }
-                
-                
                 leftValStr = result
                 outputLbl.text = result
-            
-                
             }
             currentOperation = op
             
